@@ -1,2 +1,2 @@
-# Cody-matlab-c
-Cody Challenge - MATLAB and C++
+# Cody Challenge
+My MATLAB and C++ Implementation
