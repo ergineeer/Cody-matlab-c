@@ -1,0 +1,4 @@
+Problem 4. Make a checkerboard matrix
+https://www.mathworks.com/matlabcentral/cody/groups/2/problems/4
+Created by Cody Team 
+Appears in Cody Challenge
