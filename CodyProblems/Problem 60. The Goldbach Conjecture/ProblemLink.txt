@@ -1,0 +1,4 @@
+Problem 60. The Goldbach Conjecture
+https://www.mathworks.com/matlabcentral/cody/problems/60-the-goldbach-conjecture
+Created by Cody Team 
+Appears in Cody Challenge / Basics - Prime Numbers / The Prime Directive
