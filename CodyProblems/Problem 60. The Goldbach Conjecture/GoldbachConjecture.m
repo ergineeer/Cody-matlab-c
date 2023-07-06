@@ -11,7 +11,7 @@ clc
 
 inputValue = input("Input value: ");
 
-p = primes(inputValue);
-[rows, cols] = find((p + p') == inputValue);
-resultPairs = [p(rows);p(cols)]';
+primeVals = primes(inputValue);
+[rows, cols] = find((primeVals + primeVals') == inputValue);
+resultPairs = [primeVals(rows);primeVals(cols)]';
 disp(resultPairs)
